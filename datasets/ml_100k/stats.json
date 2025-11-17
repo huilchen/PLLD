@@ -1,0 +1,19 @@
+{
+  "total_interactions": 81030,
+  "train_interactions": 64812,
+  "valid_interactions": 8868,
+  "test_interactions": 7350,
+  "unique_users": 943,
+  "unique_items": 1599,
+  "positives": 66864,
+  "negatives": 14166,
+  "positive_to_negative_ratio": 4.72003388394748,
+  "min_interactions_per_user": 18,
+  "min_interactions_per_item": 1,
+  "avg_interactions_per_user": 85.92788971367975,
+  "avg_interactions_per_item": 50.67542213883677,
+  "median_interactions_per_user": 63.0,
+  "median_interactions_per_item": 24.0,
+  "test_positives": 6112,
+  "test_negatives": 1238
+}
