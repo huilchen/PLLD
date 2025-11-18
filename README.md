@@ -2,7 +2,7 @@
 
 This directory contains the cleaned release of our PLLD method. It includes:
 
-- `code/`: the full training and evaluation pipeline (based on `PLL_PLUS`, stripped of logs, scripts, and checkpoints)
+- `code/`: the full training and evaluation pipeline 
 - `datasets/`: curated subsets for `amazon_book`, `amazon_movie`, and `ml_100k`
 
 ## Environment Setup
