@@ -60,7 +60,3 @@ Each dataset folder provides `*.train.rating`, `*.valid.rating`, `*.test.rating`
    ```
    Replace `--dataset` with `amazon_movie` or `ml_100k` to run on other splits.
 3. Enable the margin extension by adding, for example, `--noise-margin 0.1 --noise-margin-weight 0.1`.
-
-## Notes
-- PLLD looks for datasets under `../datasets/<name>` when you pass `--dataset amazon_book` (etc.). You can still point to custom paths if needed.
-- All non-essential artifacts (logs, images, checkpoints) have been removed, so the repo is ready for sharing or publishing alongside your paper.
